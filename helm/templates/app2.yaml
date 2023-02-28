@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    path: helm
+    path: loki-stack
     repoURL: https://github.com/abdul-at/argo-app1.git
     targetRevision: main
   destination:
