@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     path: helm/loki-stack
-    repoURL: https://github.com/abdul-at/argo-app1.git
+    repoURL: https://github.com/abdul-at/argo-app2.git
     targetRevision: main
   destination:
     namespace: default
