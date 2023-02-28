@@ -21,7 +21,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: {{ repoURL }}
+        repoURL: '{{ repoURL }}'
         targetRevision: main
         path: helm/{{ appname }}
       destination:
